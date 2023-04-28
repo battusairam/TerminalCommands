@@ -1,1 +1,1 @@
-Add:README.md file added 
+TerminalCommands where we are practice daily wise terminal commands
